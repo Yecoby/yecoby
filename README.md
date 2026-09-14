@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Warren 👋
+BSIT Graduate | Junior IT / Software Developer
 
-<!--
-**Yecoby/yecoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Bachelor of Science in Information Technology graduate interested in software development, web applications, and backend systems.
 
-Here are some ideas to get you started:
+🛠️ Technologies
+Angular
+TypeScript
+Node.js
+Express.js
+MySQL
+Sequelize
+REST APIs
+Git & GitHub
+🚀 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PowerGuard
+
+A web-based system developed as part of a capstone project.
+
+Frontend: Angular
+Backend: Node.js / Express.js
+Database: MySQL
+
+🔗 PowerGuard Angular
+🔗 PowerGuard API
+
+🎯 Currently
+Building my software development skills
+Learning more about backend and frontend development
+Improving my GitHub projects and portfolio
+📫 Contact
+
+Feel free to connect with me through GitHub.
