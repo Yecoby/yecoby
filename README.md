@@ -31,6 +31,7 @@ Database: MySQL
 Building my software development skills
 Learning more about backend and frontend development
 Improving my GitHub projects and portfolio
+
 📫 Contact
 
 Feel free to connect with me through GitHub.
