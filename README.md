@@ -1,5 +1,5 @@
 #Hi, I'm Warren 👋
-BSIT Graduate | Junior IT / Software Developer
+Junior IT | Software Developer
 
 I'm a Bachelor of Science in Information Technology graduate interested in software development, web applications, and backend systems.
 
